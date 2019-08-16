@@ -1,0 +1,16 @@
+﻿  databaseOperator.cpp
+  databaseStructure.cpp
+  discardeableTestSuit.cpp
+  latexCodeEngine.cpp
+Source Files\latexCodeEngine.cpp(185): warning C4101: 'k': unreferenced local variable
+  machineLearningEngine.cpp
+Source Files\machineLearningEngine.cpp(100): warning C4101: 'iterator': unreferenced local variable
+  main.cpp
+  matlabCodeEngine.cpp
+  Generating code
+  92 of 3217 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    75 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FingerprintMatcher.vcxproj -> C:\Users\lecio\Dropbox\IJCB 2017 - Touchless FingerCodes\FingerprintMatcher\x64\Release\FingerprintMatcher.exe
+  FingerprintMatcher.vcxproj -> C:\Users\lecio\Dropbox\IJCB 2017 - Touchless FingerCodes\FingerprintMatcher\x64\Release\FingerprintMatcher.pdb (Full PDB)

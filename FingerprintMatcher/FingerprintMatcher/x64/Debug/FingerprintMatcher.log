@@ -1,0 +1,11 @@
+﻿  main.cpp
+  discardeableTestSuit.cpp
+  Generating Code...
+  Compiling...
+  databaseStructure.cpp
+c:\users\lecio\dropbox\ijcb 2017 - touchless fingercodes\fingerprintmatcher\fingerprintmatcher\source files\databasestructure.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lecio\dropbox\ijcb 2017 - touchless fingercodes\fingerprintmatcher\fingerprintmatcher\source files\databasestructure.cpp(143): warning C4101: 'innerIterator': unreferenced local variable
+  databaseOperator.cpp
+  Generating Code...
+  FingerprintMatcher.vcxproj -> C:\Users\lecio\Dropbox\IJCB 2017 - Touchless FingerCodes\FingerprintMatcher\x64\Debug\FingerprintMatcher.exe
+  FingerprintMatcher.vcxproj -> C:\Users\lecio\Dropbox\IJCB 2017 - Touchless FingerCodes\FingerprintMatcher\x64\Debug\FingerprintMatcher.pdb (Full PDB)
